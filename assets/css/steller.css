@@ -11546,7 +11546,7 @@ pre {
 @media (max-width: 576px) { /* Para telas menores que 576px (tipicamente celulares) */
     .subtitle {
         font-size: 18px; /* Tamanho menor para cabeçalhos em dispositivos pequenos */
-        margin-top: 30px; /* Menos margem superior em dispositivos pequenos */
+        margin-top: 36px; /* Menos margem superior em dispositivos pequenos */
     }
 }
 
