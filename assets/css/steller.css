@@ -68,6 +68,7 @@ body {
   color: #495057;
   text-align: left;
   background-color: #fff;
+  font-style: normal !important; 
 }
 
 [tabindex="-1"]:focus {
@@ -80,9 +81,10 @@ hr {
   overflow: visible;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, p, span, div {
   margin-top: 0;
   margin-bottom: 0.5rem;
+  font-style: normal !important;
 }
 
 p {
