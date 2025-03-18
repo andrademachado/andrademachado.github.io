@@ -11517,6 +11517,7 @@ pre {
       -ms-flex-align: end;
           align-items: flex-end;
   padding-left: 0px;
+  
 }
 
 .header .container .img-holder img {
@@ -11526,6 +11527,7 @@ pre {
   margin-right: -2rem;
   font-weight: bold;
   font-family: 180px;
+ 
 }
 
 @media (max-width: 991.98px) {
@@ -11546,7 +11548,7 @@ pre {
 @media (max-width: 576px) { /* Para telas menores que 576px (tipicamente celulares) */
     .subtitle {
         font-size: 18px; /* Tamanho menor para cabeçalhos em dispositivos pequenos */
-        margin-top: 36px; /* Menos margem superior em dispositivos pequenos */
+        margin-top: 100px; /* Menos margem superior em dispositivos pequenos */
     }
 }
 
